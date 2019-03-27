@@ -1,0 +1,29 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "Friend Finder",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Slodeen/FriendFinder.git"
+  },
+  "keywords": [
+    "Friend",
+    "Finder"
+  ],
+  "author": "Slodeen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Slodeen/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/Slodeen/FriendFinder#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "html": "^1.0.0",
+    "path": "^0.12.7"
+  }
+}
